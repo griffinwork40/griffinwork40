@@ -1,36 +1,37 @@
-# Hey, I’m Griffin
+# Hey, I'm Griffin
 
-I’m a software engineer building the kind of systems that make businesses feel unfairly efficient.
+I build agent systems that actually ship — local-first infrastructure for
+running coding agents: orchestration, supervision, and the runtimes that
+tie them together.
 
-Stuff like:
-- production AI agents
-- agentic Google Ads
-- AI SDR workflows
-- SaaS MVPs
-- custom platforms
-- scraping + lead enrichment pipelines
-- email marketing systems
-- data analysis
-- teaching teams how to actually use AI
+Local-first is the through-line. Your code never leaves your machine.
 
-Most companies do not need more “AI content.”
-They need infrastructure that prints leverage.
+## What I'm building
 
-## Current focus
-- building **AgentGRAI** (private)
-- helping businesses automate sales, ops, and outreach
-- shipping practical software that saves time or makes money
+| | |
+|---|---|
+| [agent-afk](https://github.com/griffinwork40/agent-afk) | Local-first CLI for running, supervising, and resuming coding agents across terminal and chat surfaces. Apache-2.0. |
+| [agent-framework](https://github.com/griffinwork40/agent-framework) | Force-multiplier skills, agents, and hooks for Claude Code. |
+| [gadscli](https://github.com/griffinwork40/gadscli) | A Rust CLI for the Google Ads API. Side project. |
+
+Plus MCP servers for Cursor, ElevenLabs voice agents, and Twilio — pinned below.
+
+On the bench: [whisper-app](https://github.com/griffinwork40/whisper-app) (on-device
+macOS dictation, mlx-whisper) and [termauto](https://github.com/griffinwork40/termauto)
+(local LLM shell completion) — v0, Apple Silicon only.
+
+## Work with me
+
+[GRAIsol](https://graisol.com) — agent systems engineering for teams that need
+agents in production, not another demo. Agent AFK is the harness every
+engagement runs on.
 
 ## Elsewhere
-- Website: [graisol.com](https://graisol.com)
-- LinkedIn: [linkedin.com/in/griffindev](https://linkedin.com/in/griffindev)
-- Threads: [@griffin.dev](https://www.threads.net/@griffin.dev)
 
-## Open to
-- AI automation contracts
-- full-stack product work
-- startup roles
-- sharp problems with clear upside
+[graisol.com](https://graisol.com) · [LinkedIn](https://linkedin.com/in/griffindev) · [Threads](https://www.threads.com/@griffin.dev)
 
 ## Tech
-TypeScript • JavaScript • React • Next.js • Node.js • PostgreSQL • Supabase • Redis • APIs • automation systems • AI workflows
+
+TypeScript · Node.js · React · Next.js · PostgreSQL · Supabase · Redis · Rust · Python · MLX · @anthropic-ai/sdk
+
+<!-- reviewed 2026-06 -->
