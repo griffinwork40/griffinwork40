@@ -12,7 +12,6 @@ Local-first is the through-line. Your code never leaves your machine.
 |---|---|
 | [agent-afk](https://github.com/griffinwork40/agent-afk) | Local-first CLI for running, supervising, and resuming coding agents across terminal and chat surfaces. Apache-2.0. |
 | [agent-framework](https://github.com/griffinwork40/agent-framework) | Force-multiplier skills, agents, and hooks for Claude Code. |
-| [gadscli](https://github.com/griffinwork40/gadscli) | A Rust CLI for the Google Ads API. Side project. |
 
 Plus MCP servers for Cursor, ElevenLabs voice agents, and Twilio — pinned below.
 
