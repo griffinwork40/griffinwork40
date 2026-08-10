@@ -16,8 +16,8 @@ Local-first is the through-line. Your code never leaves your machine.
 Plus MCP servers for Cursor, ElevenLabs voice agents, and Twilio — pinned below.
 
 On the bench: [whisper-app](https://github.com/griffinwork40/whisper-app) (on-device
-macOS dictation, mlx-whisper) and [termauto](https://github.com/griffinwork40/termauto)
-(local LLM shell completion) — v0, Apple Silicon only.
+macOS dictation, mlx-whisper) and [umber](https://github.com/griffinwork40/umber)
+A sleek swift terminal + editor for Mac (no AI-features).
 
 ## Work with me
 
