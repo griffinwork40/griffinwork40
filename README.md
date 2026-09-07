@@ -28,7 +28,7 @@ and [Google Analytics](https://github.com/griffinwork40/ga-cli).
 
 ## Current work
 
-**Special Projects Engineer** at [Capital Mischief](https://substack.com/@capitalmischief) --
+**Special Projects Engineer** at [Capital Mischief](https://charliepgarcia.substack.com) --
 building AI editorial intelligence, automated research pipelines, and agent-powered
 operations for a 22K-subscriber finance Substack.
 
