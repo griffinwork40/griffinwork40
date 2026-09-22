@@ -16,7 +16,7 @@ team scale.
 | | |
 |---|---|
 | [agent-afk](https://github.com/griffinwork40/agent-afk) | Open-source TypeScript coding-agent runtime/harness. ~551K LOC, 1,000+ npm releases, Apache-2.0. |
-| [umber](https://github.com/griffinwork40/umber) | Native Swift/AppKit macOS terminal -- no AI features, built to host agent-afk's REPL well. |
+| [goblin-portal](https://github.com/griffinwork40/goblin-portal) | Native Swift/AppKit macOS terminal -- no AI features, built to host agent-afk's REPL well. |
 | [agent-browser](https://github.com/griffinwork40/agent-browser) | Native macOS browser for humans working alongside AI agents. Swift on WebKit. |
 | [agent-framework](https://github.com/griffinwork40/agent-framework) | Force-multiplier skills, agents, and hooks for Claude Code and agent-afk. |
 
