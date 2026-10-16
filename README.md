@@ -22,7 +22,6 @@ team scale.
 | [goblin-portal](https://github.com/griffinwork40/goblin-portal) | Native Swift/AppKit macOS terminal. No AI features; built to host agent-afk's REPL well. [goblinportal.app](https://goblinportal.app) |
 | [agent-framework](https://github.com/griffinwork40/agent-framework) | Force-multiplier skills, agents, and hooks for Claude Code and agent-afk. |
 | [software-factory](https://github.com/griffinwork40/software-factory) | agent-afk plugin that turns a GitHub backlog into merged PRs. |
-| [agent-browser](https://github.com/griffinwork40/agent-browser) | Native macOS browser for humans working alongside AI agents. Swift on WebKit. |
 | [whisper-app](https://github.com/griffinwork40/whisper-app) | On-device menu-bar dictation for Apple Silicon via mlx-whisper. |
 
 <details>
